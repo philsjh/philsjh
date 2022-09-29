@@ -1,4 +1,4 @@
-### Hi there, I'm Phil aka [philsjh] 👋
+### Hi there, I'm Phil aka philsjh 👋
 
 ## I'm a software architect based in Antrim
 
