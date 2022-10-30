@@ -1,6 +1,6 @@
 ### Hi there, I'm Phil aka philsjh 👋
 
-## I'm a software architect based in Antrim
+## I'm a software architect based in Ireland 🇮🇪
 
 ## Technologies:
 - Python
