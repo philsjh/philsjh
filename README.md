@@ -1,6 +1,7 @@
 ### Hi there, I'm Phil aka philsjh 👋
 
-## I'm a software architect based in Ireland 🇮🇪 - currently the head of platform engineering for a British plc.
+## I'm a software architect based in Ireland 🇮🇪
+### Currently working as the head of platform engineering for a British plc.
 
 ## Technologies:
 - Go, Python, C++, JS
